@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PIMES.BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B391152-87B6-4D69-93EC-D50DFA2018F9}|PIMES.BACKEND\\PIMES.BACKEND.csproj|d:\\pimes.backend\\pimes.backend\\controllers\\maestrosproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B391152-87B6-4D69-93EC-D50DFA2018F9}|PIMES.BACKEND\\PIMES.BACKEND.csproj|solutionrelative:pimes.backend\\controllers\\maestrosproveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B391152-87B6-4D69-93EC-D50DFA2018F9}|PIMES.BACKEND\\PIMES.BACKEND.csproj|d:\\pimes.backend\\pimes.backend\\controllers\\maestrosclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B391152-87B6-4D69-93EC-D50DFA2018F9}|PIMES.BACKEND\\PIMES.BACKEND.csproj|solutionrelative:pimes.backend\\controllers\\maestrosclientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B391152-87B6-4D69-93EC-D50DFA2018F9}|PIMES.BACKEND\\PIMES.BACKEND.csproj|d:\\pimes.backend\\pimes.backend\\controllers\\maestrosproductocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B391152-87B6-4D69-93EC-D50DFA2018F9}|PIMES.BACKEND\\PIMES.BACKEND.csproj|solutionrelative:pimes.backend\\controllers\\maestrosproductocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaestrosProveedorController.cs",
+              "DocumentMoniker": "D:\\PIMES.BACKEND\\PIMES.BACKEND\\Controllers\\MaestrosProveedorController.cs",
+              "RelativeDocumentMoniker": "PIMES.BACKEND\\Controllers\\MaestrosProveedorController.cs",
+              "ToolTip": "D:\\PIMES.BACKEND\\PIMES.BACKEND\\Controllers\\MaestrosProveedorController.cs",
+              "RelativeToolTip": "PIMES.BACKEND\\Controllers\\MaestrosProveedorController.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAmwOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:35:37.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaestrosClienteController.cs",
+              "DocumentMoniker": "D:\\PIMES.BACKEND\\PIMES.BACKEND\\Controllers\\MaestrosClienteController.cs",
+              "RelativeDocumentMoniker": "PIMES.BACKEND\\Controllers\\MaestrosClienteController.cs",
+              "ToolTip": "D:\\PIMES.BACKEND\\PIMES.BACKEND\\Controllers\\MaestrosClienteController.cs",
+              "RelativeToolTip": "PIMES.BACKEND\\Controllers\\MaestrosClienteController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAwAkBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T23:35:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaestrosProductoController.cs",
+              "DocumentMoniker": "D:\\PIMES.BACKEND\\PIMES.BACKEND\\Controllers\\MaestrosProductoController.cs",
+              "RelativeDocumentMoniker": "PIMES.BACKEND\\Controllers\\MaestrosProductoController.cs",
+              "ToolTip": "D:\\PIMES.BACKEND\\PIMES.BACKEND\\Controllers\\MaestrosProductoController.cs",
+              "RelativeToolTip": "PIMES.BACKEND\\Controllers\\MaestrosProductoController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAwFcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:17:41.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

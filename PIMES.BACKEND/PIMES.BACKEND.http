@@ -1,0 +1,6 @@
+@PIMES.BACKEND_HostAddress = http://localhost:5216
+
+GET {{PIMES.BACKEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
